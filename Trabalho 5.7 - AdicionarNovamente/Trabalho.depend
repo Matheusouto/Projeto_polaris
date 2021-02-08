@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1511482828 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.2.1 - atualizacao_status - correcao_erro\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1512851105 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.2.1 - atualizacao_status - correcao_erro\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1515606855 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.2.1 - atualizacao_status - correcao_erro\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+
+1511482828 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.3 - salvar_ordenado\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1515713646 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.3 - salvar_ordenado\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1515714134 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.3 - salvar_ordenado\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+
+1511482828 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.3.1 - sair_status_pesquisa\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1515713646 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.3.1 - sair_status_pesquisa\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1516916647 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.4 - data_atual\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+	<time.h>
+
+1516916697 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.4 - data_atual\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1511482828 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.4 - data_atual\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1511482828 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.5 - atual_automatica_status\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1516917767 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.5 - atual_automatica_status\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1516917785 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.5 - atual_automatica_status\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+	<time.h>
+
+1516917785 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.6 - pesquisarnovamente\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+	<time.h>
+
+1516917767 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.6 - pesquisarnovamente\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1516918930 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.6 - pesquisarnovamente\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
+1516921718 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.7 - adicionarnovamente\funcoes.cpp
+	"Funcoes_e_estruturas.h"
+	<fstream>
+	<cstring>
+	<time.h>
+
+1516917767 c:\users\mathe\google drive\projeto (polaris)\trabalho 5.7 - adicionarnovamente\funcoes_e_estruturas.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<locale.h>
+	<string>
+
+1516919434 source:c:\users\mathe\google drive\projeto (polaris)\trabalho 5.7 - adicionarnovamente\principal.cpp
+	<iostream>
+	"Funcoes_e_estruturas.h"
+
